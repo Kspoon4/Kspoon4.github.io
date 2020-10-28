@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+header > h1 {
+    background-color: grey;
+    font-family: fantasy;
+    padding: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+/* body > header > nav > ul > li > a {
+    display: grid;
+    color: green;
+    text-align: center;
+     } */
+  
+#menu
+    color: grey;
+    list-style-type: square;
+]
+
+body > header > div > section > h2 {
+    font-display: ;
+}
+
+#main_image{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+
+}
+
+#cupboard_image{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+
+}
+
+#Tile_image{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+
+}
